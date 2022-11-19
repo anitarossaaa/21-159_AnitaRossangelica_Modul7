@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\modul7\resources\views/contact.blade.php ENDPATH**/ ?>
